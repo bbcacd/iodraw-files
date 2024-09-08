@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.12">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="545" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="458" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,6 +389,40 @@
             <Array as="points">
               <mxPoint x="85" y="150" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-91" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="oTFlbFTRBiyo8Uv9YIAy-68">
+          <mxGeometry x="50" y="265" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-92" value="checkPasswordIsEmpty()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="oTFlbFTRBiyo8Uv9YIAy-68" target="oTFlbFTRBiyo8Uv9YIAy-91">
+          <mxGeometry x="0.0165" relative="1" as="geometry">
+            <mxPoint x="55" y="245" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="275" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-93" value="return&amp;nbsp;passwordIsEmpty" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" edge="1" parent="oTFlbFTRBiyo8Uv9YIAy-68">
+          <mxGeometry x="-0.181" y="6" relative="1" as="geometry">
+            <mxPoint x="60" y="286.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="286.5" />
+              <mxPoint x="90" y="305.5" />
+            </Array>
+            <mxPoint x="55" y="305.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-94" value="[passwordIsEmpty--true]" style="html=1;align=left;spacingLeft=2;endArrow=open;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;endFill=0;" edge="1" parent="oTFlbFTRBiyo8Uv9YIAy-68">
+          <mxGeometry x="-0.176" y="6" relative="1" as="geometry">
+            <mxPoint x="56" y="320.9985057471265" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="91" y="321.01" />
+              <mxPoint x="91" y="351.01" />
+            </Array>
+            <mxPoint x="56" y="351.01" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
