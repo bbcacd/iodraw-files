@@ -368,6 +368,9 @@
         <mxCell id="oTFlbFTRBiyo8Uv9YIAy-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB——用户注册&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="-40" width="420" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB——用户登录&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-50" width="420" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
