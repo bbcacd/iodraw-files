@@ -718,8 +718,8 @@
         <mxCell id="oTFlbFTRBiyo8Uv9YIAy-144" value="&lt;font color=&quot;#ff0000&quot;&gt;检测密码是否为空&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1780" y="314" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-145" value="&lt;font color=&quot;#ff0000&quot;&gt;检测用户账号是否存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="395" width="140" height="30" as="geometry" />
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-145" value="&lt;font color=&quot;#ff0000&quot;&gt;检测用户账号是否存在，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;是否登录成功&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="390" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
