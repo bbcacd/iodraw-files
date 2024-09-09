@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.12" pages="2">
   <diagram name="9899需求序列图" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="3460" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2461,8 +2461,8 @@
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-161" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;管理员&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——删除敏感词&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1238.5" y="5100" width="620" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MRvQW8ktgAWXCBsfvLXD-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;管理员&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——管理员增加扶贫政策&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1931.5" y="5101" width="810" height="70" as="geometry" />
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-162" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB社区&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——社区志愿者登录&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2006.5" y="5101" width="660" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-163" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="430.5" y="5241" width="20" height="610" as="geometry" />
@@ -2509,8 +2509,8 @@
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-177" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2013.5" y="5281" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MRvQW8ktgAWXCBsfvLXD-178" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;管理员&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——查看敏感词&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2816.5" y="5101" width="620" height="70" as="geometry" />
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-178" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;社区&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——查看本社区贫困人口库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2721.5" y="5101" width="810" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-179" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="2818.5" y="5251" width="20" height="610" as="geometry" />
@@ -2527,8 +2527,8 @@
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-183" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2803.5" y="5281" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MRvQW8ktgAWXCBsfvLXD-184" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;管理员&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——添加敏感词&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3670" y="5111" width="620" height="70" as="geometry" />
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-184" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;社区&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——查找本社区贫困人口库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3575" y="5111" width="810" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-185" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="3672" y="5261" width="20" height="610" as="geometry" />
@@ -2544,6 +2544,240 @@
         </mxCell>
         <mxCell id="MRvQW8ktgAWXCBsfvLXD-189" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3657" y="5291" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-190" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB社区&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——修改本社区贫困人口库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280.25" y="6181" width="810" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-191" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;WEB增加&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;——增加本社区贫困人口库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1103.25" y="6180" width="810" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-193" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="390.25" y="6321" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-194" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="607.25" y="6321" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-195" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-194">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-196" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="895.25" y="6331" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-197" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375.25" y="6351" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-198" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="1276.25" y="6321" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-199" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1493.25" y="6321" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-200" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-199">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-201" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1781.25" y="6331" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-202" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1261.25" y="6351" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-220" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——用户注册&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="7161" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-221" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——用户登录&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1273.5" y="7160" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-222" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——查看用户信息&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2011.5" y="7161" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-223" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="7301" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-224" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="7301" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-225" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-224">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-226" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="7311" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-227" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="7331" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-228" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="1316.5" y="7301" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-229" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1533.5" y="7301" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-230" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-229">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-231" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1821.5" y="7311" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-232" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1301.5" y="7331" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-233" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="2028.5" y="7311" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-234" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2245.5" y="7311" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-235" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-234">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-236" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2533.5" y="7321" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-237" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2013.5" y="7341" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-238" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——修改用户信息&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2801.5" y="7161" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-239" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="2818.5" y="7311" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-240" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3035.5" y="7311" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-241" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-240">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-242" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3323.5" y="7321" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-243" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2803.5" y="7341" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-244" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——查看扶贫政策&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3655" y="7171" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-245" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="3672" y="7321" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-246" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3889" y="7321" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-247" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-246">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-248" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="4177" y="7331" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-249" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3657" y="7351" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-250" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——查找扶贫政策&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="404" y="8141" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-251" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序用户——查看扶贫政策详情&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="8140" width="740" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-252" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序组织——组织注册&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2065" y="8141" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-253" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="434" y="8281" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-254" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="651" y="8281" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-255" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-254">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-256" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="939" y="8291" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-257" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="8311" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-258" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="8281" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-259" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1537" y="8281" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-260" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-259">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-261" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1825" y="8291" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-262" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="8311" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-263" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="2032" y="8291" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-264" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2249" y="8291" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-265" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-264">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-266" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="2537" y="8301" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-267" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2017" y="8321" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-268" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序组织——组织登录&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2855" y="8141" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-269" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="2822" y="8291" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-270" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3039" y="8291" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-271" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-270">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-272" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3327" y="8301" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-273" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2807" y="8321" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-274" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序组织——查看组织信息&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3658.5" y="8151" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-275" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="3675.5" y="8301" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-276" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="3892.5" y="8301" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-277" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-276">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-278" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="4180.5" y="8311" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-279" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3660.5" y="8331" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-280" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;小程序组织——修改组织信息&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="9040" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-281" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="416" y="9190" width="20" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-282" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：GUI&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="633" y="9190" width="100" height="559" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-283" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MRvQW8ktgAWXCBsfvLXD-282">
+          <mxGeometry x="45" y="81" width="10" height="459" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-284" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;：System&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="921" y="9200" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MRvQW8ktgAWXCBsfvLXD-285" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401" y="9220" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
