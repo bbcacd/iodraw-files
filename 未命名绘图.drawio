@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.12" pages="2">
   <diagram name="9899需求序列图" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1831" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2477,22 +2477,22 @@
         </mxCell>
         <mxCell id="YumtRMaBzAsbZP3QGl6b-69" value="checkAddPolicyInputLegality()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="MRvQW8ktgAWXCBsfvLXD-146" edge="1">
           <mxGeometry x="0.0053" relative="1" as="geometry">
-            <mxPoint x="-185" y="223" as="sourcePoint" />
+            <mxPoint x="-155" y="223" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-155" y="253" />
+              <mxPoint x="-125" y="253" />
             </Array>
             <mxPoint as="offset" />
-            <mxPoint x="-180" y="253" as="targetPoint" />
+            <mxPoint x="-150" y="253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YumtRMaBzAsbZP3QGl6b-70" value="return&amp;nbsp;inputLegality" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" parent="MRvQW8ktgAWXCBsfvLXD-146" edge="1">
           <mxGeometry x="-0.1793" y="6" relative="1" as="geometry">
-            <mxPoint x="-180" y="263" as="sourcePoint" />
+            <mxPoint x="-150" y="274" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-150" y="263" />
-              <mxPoint x="-150" y="282" />
+              <mxPoint x="-120" y="274" />
+              <mxPoint x="-120" y="293" />
             </Array>
-            <mxPoint x="-185" y="282" as="targetPoint" />
+            <mxPoint x="-155" y="293" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
