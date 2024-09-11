@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12" pages="2">
   <diagram name="9899需求序列图" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1424" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1349" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -625,79 +625,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-128" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;[&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;--true]&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.014;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oTFlbFTRBiyo8Uv9YIAy-129" edge="1">
-          <mxGeometry x="-0.0063" relative="1" as="geometry">
-            <mxPoint x="1556" y="-423" as="sourcePoint" />
-            <mxPoint x="1487" y="-419" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-129" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;：GUI&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1321" y="-440" width="150" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-130" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="oTFlbFTRBiyo8Uv9YIAy-129" vertex="1">
-          <mxGeometry x="67.5" y="88" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-131" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1391" y="-380" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-132" value="&lt;span style=&quot;font-family: Verdana; font-size: 11px;&quot;&gt;《create》&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1474" y="-430" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-133" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;display:&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="1556" y="-380" as="sourcePoint" />
-            <mxPoint x="1401" y="-380.4200000000001" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-134" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;destroy&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" parent="1" edge="1">
-          <mxGeometry x="0.0002" relative="1" as="geometry">
-            <mxPoint x="1556" y="-361" as="sourcePoint" />
-            <mxPoint x="1401" y="-361" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-135" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;click&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(17, 17, 17); text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;determine&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
-          <mxGeometry x="-0.025" y="4" relative="1" as="geometry">
-            <mxPoint x="1246" y="-370" as="sourcePoint" />
-            <mxPoint x="1390" y="-370.25" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-136" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;--true]&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
-          <mxGeometry x="-0.0086" relative="1" as="geometry">
-            <mxPoint x="1640" y="-480" as="sourcePoint" />
-            <mxPoint x="1728" y="-480" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-137" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;：GUI&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1729" y="-495" width="157" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-138" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="oTFlbFTRBiyo8Uv9YIAy-137" vertex="1">
-          <mxGeometry x="71.5" y="106" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1803" y="-435" width="10" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-140" value="&lt;span style=&quot;font-family: Verdana; font-size: 11px;&quot;&gt;《create》&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="-480" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-141" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;display:&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.047;entryY=0.01;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oTFlbFTRBiyo8Uv9YIAy-139" edge="1">
-          <mxGeometry x="-0.0043" relative="1" as="geometry">
-            <mxPoint x="1637" y="-435" as="sourcePoint" />
-            <mxPoint x="1796" y="-435" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-142" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;destroy&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;entryX=-0.02;entryY=0.878;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0237" y="-20" relative="1" as="geometry">
-            <mxPoint x="1637" y="-400" as="sourcePoint" />
-            <mxPoint x="1802.8" y="-400.27" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oTFlbFTRBiyo8Uv9YIAy-143" value="&lt;font color=&quot;#ff0000&quot;&gt;检测账号是否为空&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1748" y="190" width="120" height="30" as="geometry" />
         </mxCell>
@@ -984,7 +911,7 @@
         <mxCell id="oTFlbFTRBiyo8Uv9YIAy-221" value="&lt;span style=&quot;font-family: Verdana; font-size: 11px;&quot;&gt;《create》&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3217" y="389.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-222" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;display:修改失败&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.047;entryY=0.01;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oTFlbFTRBiyo8Uv9YIAy-220" edge="1">
+        <mxCell id="oTFlbFTRBiyo8Uv9YIAy-222" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;display:修改失败&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.047;entryY=0.01;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="oTFlbFTRBiyo8Uv9YIAy-220" edge="1">
           <mxGeometry x="-0.0022" relative="1" as="geometry">
             <mxPoint x="3214" y="434.5" as="sourcePoint" />
             <mxPoint x="3373" y="434.5" as="targetPoint" />
@@ -6064,11 +5991,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lGkTWfn_7N9aejoh5Zmt-141" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;ViewFailed&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2615" y="-382" width="90" height="50" as="geometry" />
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-143" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:输入数据不符合规范&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-382" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGkTWfn_7N9aejoh5Zmt-142" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;FindFailed&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2615" y="-320" width="80" height="50" as="geometry" />
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-144" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:注册失败，用户账号已存在&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="-352" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-145" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:注册失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-322" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-146" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:注册成功&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-292" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-147" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:账号不能为空&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="-252" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-148" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:密码不能为空&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="-212" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-149" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:登录成功&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-192" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-150" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;display:&lt;/font&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;账号或密码错误，请重新输入&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-162" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-151" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:查看失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-382" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-152" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:修改成功&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-352" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGkTWfn_7N9aejoh5Zmt-153" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;display:修改失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-322" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
