@@ -8507,7 +8507,7 @@
           <mxGeometry x="917" y="9200" width="100" height="460" as="geometry" />
         </mxCell>
         <mxCell id="As6EO6EFdZbnw43bVm4h-646" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="306" y="9130" width="50" height="30" as="geometry" />
+          <mxGeometry x="306" y="9132" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="As6EO6EFdZbnw43bVm4h-647" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="3691" y="8212.64" width="20" height="397.36" as="geometry" />
