@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13" pages="2">
   <diagram name="9899需求序列图" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1263" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5893,10 +5893,10 @@
         <mxCell id="As6EO6EFdZbnw43bVm4h-404" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;destroy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="576.5" y="7358" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-405" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;《create》&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.95;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="As6EO6EFdZbnw43bVm4h-397">
+        <mxCell id="As6EO6EFdZbnw43bVm4h-405" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;《create》&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1.03;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="As6EO6EFdZbnw43bVm4h-397">
           <mxGeometry x="0.0041" relative="1" as="geometry">
-            <mxPoint x="696.5" y="7371" as="sourcePoint" />
-            <mxPoint x="760.5" y="7370.93" as="targetPoint" />
+            <mxPoint x="690" y="7371" as="sourcePoint" />
+            <mxPoint x="750.5" y="7370.93" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
