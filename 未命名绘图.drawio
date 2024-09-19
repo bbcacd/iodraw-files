@@ -8111,7 +8111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="9899需求序列图" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1276" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13523,17 +13523,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-413" value="isUserAccountExists()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="0.0039" relative="1" as="geometry">
-            <mxPoint x="85" y="7652.96" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="227.5" y="7652.96" />
-              <mxPoint x="227.5" y="7682.96" />
-            </Array>
-            <mxPoint as="offset" />
-            <mxPoint x="89.99999999999977" y="7683.00347826087" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="As6EO6EFdZbnw43bVm4h-414" value="[inputLegality--true]" style="html=1;align=left;spacingLeft=2;endArrow=open;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry x="-0.1771" y="6" relative="1" as="geometry">
             <mxPoint x="635.5" y="7553.9885057471265" as="sourcePoint" />
@@ -13575,17 +13564,6 @@
           <mxGeometry x="-0.025" y="4" relative="1" as="geometry">
             <mxPoint x="384.5" y="7604.25" as="sourcePoint" />
             <mxPoint x="459.5" y="7603.75" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-422" value="return&amp;nbsp;isAccountExists" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry x="-0.1766" y="6" relative="1" as="geometry">
-            <mxPoint x="112" y="7747.5" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="206.5" y="7747.5" />
-              <mxPoint x="206.5" y="7766.5" />
-            </Array>
-            <mxPoint x="107" y="7766.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
