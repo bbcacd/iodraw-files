@@ -14716,30 +14716,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-734" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="As6EO6EFdZbnw43bVm4h-728" vertex="1">
-          <mxGeometry x="88" y="309" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-735" value="isOrganizationAccountExists()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1.04;exitY=0.41;exitDx=0;exitDy=0;exitPerimeter=0;" parent="As6EO6EFdZbnw43bVm4h-728" source="As6EO6EFdZbnw43bVm4h-729" target="As6EO6EFdZbnw43bVm4h-734" edge="1">
-          <mxGeometry x="0.0053" relative="1" as="geometry">
-            <mxPoint x="107" y="289" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="111" y="289" />
-              <mxPoint x="111" y="319" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="As6EO6EFdZbnw43bVm4h-736" value="return&amp;nbsp;isAccountExists" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" parent="As6EO6EFdZbnw43bVm4h-728" edge="1">
-          <mxGeometry x="-0.1793" y="6" relative="1" as="geometry">
-            <mxPoint x="98" y="329" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="128" y="329" />
-              <mxPoint x="128" y="348" />
-            </Array>
-            <mxPoint x="93" y="348" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="As6EO6EFdZbnw43bVm4h-737" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;《create》&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="As6EO6EFdZbnw43bVm4h-616" edge="1">
           <mxGeometry x="0.0011" relative="1" as="geometry">
             <mxPoint x="2090" y="8280" as="sourcePoint" />
@@ -16787,6 +16763,23 @@
             </Array>
             <mxPoint x="889.8400000000001" y="7687.335000000001" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OsrILDzqPFFjTlsBiYVf-146" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isOrganizationAccountExists()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2266" y="8550" as="sourcePoint" />
+            <mxPoint x="2533" y="8549.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsrILDzqPFFjTlsBiYVf-148" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isAccountExists&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=-0.066;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
+            <mxPoint x="2266" y="8599" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="2532.34" y="8599.776" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsrILDzqPFFjTlsBiYVf-149" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2533" y="8549" width="10" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
