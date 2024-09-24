@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16" pages="3">
   <diagram id="d4bULxPFD_TcapnS7VWM" name="需求序列图副本">
     <mxGraphModel dx="3735" dy="2607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16780,6 +16780,176 @@
         </mxCell>
         <mxCell id="OsrILDzqPFFjTlsBiYVf-149" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="2533" y="8549" width="10" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="112Tqy-pcH-wSlwUhicX" name="第 3 页">
+    <mxGraphModel dx="546" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="129" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="281" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="281" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="401" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="401" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="511" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="511" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="626" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="626" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="741" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="741" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="832" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="832" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="791" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="941" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="941" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="900" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1061" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1061" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1020" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1231" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-29" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="1231" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1342" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="1342" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1301" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1462" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="1462" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1421" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-37" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1572" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="1572" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1531" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-40" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="1687" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-41" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="1687" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="1646" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-43" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="1802" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-44" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="1802" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="1761" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1893" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="1893" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1852" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-49" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="2002" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="2002" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-51" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1961" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-52" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="2122" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-53" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt;&quot;&gt;用户注册&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="2122" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2M3qntzQjb1-e3tf0-C-54" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UserRegister&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="2081" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
