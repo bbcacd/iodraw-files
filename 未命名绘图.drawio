@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="112Tqy-pcH-wSlwUhicX" name="第 3 页">
-    <mxGraphModel dx="1391" dy="388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17110,13 +17110,13 @@
           <mxGeometry x="770" y="177" width="89" height="51" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="2002.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="238" y="1983" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="157" y="1994" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ansi-font-weight:normal;&lt;br/&gt;mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;社区志愿者登录&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="261" y="1974.5" width="118" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1971" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;CommunityVolunteersLogin&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1949.5" width="236" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1769" y="1918.5" width="152" height="35" as="geometry" />
@@ -17497,139 +17497,121 @@
           <mxGeometry x="2114" y="2748" width="199" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-146" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1971.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="236" y="2061.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-147" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1963" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-147" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ansi-font-weight:normal;&lt;br/&gt;mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;社区首页&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="281" y="2053" width="75" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-148" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518" y="1940" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-148" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;CommunityHome&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="2028" width="136" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-149" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465.5" y="2038" width="152" height="35" as="geometry" />
+          <mxGeometry x="235.5" y="2128" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-150" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="524.5" y="2029.5" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-150" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ansi-font-weight:normal;&lt;br/&gt;mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;查看本县区贫困人口库&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="2119.5" width="160" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-151" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="517.5" y="2006.5" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-151" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;ViewTheCommunityPopulationBank&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="2094.5" width="290" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-152" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="2100.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="232" y="2190.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-153" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="521" y="2092" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-153" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;查找本县区贫困人口库&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="234" y="2182" width="160" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-154" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="514" y="2069" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-154" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;FindTheCommunityPopulationBank&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="163" y="2157" width="290" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-155" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="2159.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="236" y="2249.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-156" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="2151" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-156" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;修改本县区贫困人口库&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238" y="2241" width="160" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-157" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518" y="2128" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-157" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;UpdateTheCommunityPopulationBank&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="158" y="2216" width="308" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-158" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="2217.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="235" y="2307.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-159" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="524" y="2209" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-159" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;增加本县区贫困人口库&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237" y="2299" width="160" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-160" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="517" y="2186" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-160" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;AddTheCommunityPopulationBank&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2274" width="281" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-161" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="2280.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="234" y="2370.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-162" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="523" y="2272" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-162" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;查看求助审核&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2362" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-163" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="516" y="2249" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-163" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;ViewHelpExamine&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="2337" width="154" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-164" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463.5" y="2347" width="152" height="35" as="geometry" />
+          <mxGeometry x="233.5" y="2437" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-165" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="2338.5" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-165" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;查看求助详情&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="2428.5" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-166" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="2315.5" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-166" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;ViewHelpDetail&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="2403.5" width="145" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-167" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2409.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="230" y="2499.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-168" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="2401" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-168" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;通过求助&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="2491" width="75" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-169" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="512" y="2378" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-169" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;PassHelp&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2466" width="91" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-170" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="2468.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="234" y="2558.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-171" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="523" y="2460" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-171" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;驳回求助&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="2550" width="75" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-172" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="516" y="2437" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-172" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;RejectHelp&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="2525" width="109" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-173" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="2526.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="233" y="2616.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-174" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="522" y="2518" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-174" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ansi-font-weight:normal;&lt;br/&gt;mso-bidi-font-weight:bold;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;查看求助举报&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264" y="2608" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-175" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="2495" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-175" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;ViewHelpReport&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="2583" width="145" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-176" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2588.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="230" y="2678.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-177" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="2580" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-177" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;查找求助举报&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="261" y="2670" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-178" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="512" y="2557" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-178" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;SearchHelpReport&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224" y="2645" width="163" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-179" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459.5" y="2655" width="152" height="35" as="geometry" />
+          <mxGeometry x="229.5" y="2745" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-180" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518.5" y="2646.5" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-180" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;通过求助举报&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="2736.5" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-181" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="511.5" y="2623.5" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-181" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;PassHelpReport&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="2711.5" width="145" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-182" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456" y="2717.5" width="152" height="35" as="geometry" />
+          <mxGeometry x="226" y="2807.5" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-183" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="2709" width="46" height="53" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-183" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;驳回求助举报&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="257" y="2799" width="103" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-184" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="508" y="2686" width="47" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-185" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2776.5" width="152" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-186" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="2768" width="46" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-187" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="512" y="2745" width="47" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-188" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="2834.5" width="152" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-189" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="518" y="2826" width="46" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-190" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;letter-spacing: 1.06667px;&quot;&gt;test&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="511" y="2803" width="47" height="51" as="geometry" />
+        <mxCell id="mgVc3DYJ5lgn1ys5FxgD-184" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0.8pt; font-size: 12pt;&quot;&gt;RejectHelpReport&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217" y="2769" width="163" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
