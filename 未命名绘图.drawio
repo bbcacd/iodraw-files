@@ -18214,7 +18214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-337" value="CommunityVolunteers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="2205" width="30" height="60" as="geometry" />
+          <mxGeometry x="45" y="2205" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mgVc3DYJ5lgn1ys5FxgD-360" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="mgVc3DYJ5lgn1ys5FxgD-357" target="mgVc3DYJ5lgn1ys5FxgD-20">
           <mxGeometry relative="1" as="geometry" />
