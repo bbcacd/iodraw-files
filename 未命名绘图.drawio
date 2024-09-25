@@ -17024,10 +17024,7 @@
           <mxGeometry x="92.5" y="346" width="105" height="51" as="geometry" />
         </mxCell>
         <mxCell id="X2M3qntzQjb1-e3tf0-C-105" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="429.5" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sm63Bjf2ny9yykTpQkiK-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-271" y="434" width="20" height="300" as="geometry" />
+          <mxGeometry x="-146" y="510" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
