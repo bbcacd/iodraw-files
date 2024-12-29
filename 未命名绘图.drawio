@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="418" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="242" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24095,6 +24095,21 @@
             <mxPoint x="3765.0699999999997" y="5549.5" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="3876.040000000001" y="5549.99" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1qIHIGndJA-XY2xa25X-1" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;isAdminLogin(）&amp;nbsp;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1.014;exitY=0.139;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MGJvRDsGmUHm8MsqbFA9-26">
+          <mxGeometry x="0.0069" relative="1" as="geometry">
+            <mxPoint x="4790" y="5317" as="sourcePoint" />
+            <mxPoint x="4896" y="5317.02" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1qIHIGndJA-XY2xa25X-2" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px;&quot;&gt;return isLogin&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.013;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
+            <mxPoint x="4780.54" y="5366.84" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="4895.87" y="5365.05" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
