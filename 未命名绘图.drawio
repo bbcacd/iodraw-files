@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="807" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23712,7 +23712,7 @@
         <mxCell id="DVQ-X0XlkVTpgFARbxXe-94" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="3865.03" y="3041.5" width="10" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-95" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px;&quot;&gt;isUpdateUserInfo()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.975;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-94" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-95" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px;&quot;&gt;updateUserInfo()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.975;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3883" y="3049" as="sourcePoint" />
             <mxPoint x="4059.03" y="3048.63" as="targetPoint" />
@@ -24047,7 +24047,7 @@
         <mxCell id="D5bfCj2pD_G4jzRlqrPR-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="3634.5699999999997" y="5502.5" width="10" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="D5bfCj2pD_G4jzRlqrPR-6" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;isUpdatePolicy()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.987;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="D5bfCj2pD_G4jzRlqrPR-6" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;updatePolicy()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.987;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0011" relative="1" as="geometry">
             <mxPoint x="3644.4399999999996" y="5512.134999999999" as="sourcePoint" />
             <mxPoint x="3756.5699999999997" y="5512.5" as="targetPoint" />
@@ -24062,7 +24062,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D5bfCj2pD_G4jzRlqrPR-8" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;isUpdatePolicy()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.987;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="D5bfCj2pD_G4jzRlqrPR-8" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;isUpdatePolicyInfo()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.987;exitY=0.179;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0011" relative="1" as="geometry">
             <mxPoint x="3765.4399999999996" y="5520.134999999999" as="sourcePoint" />
             <mxPoint x="3877.5699999999997" y="5520.5" as="targetPoint" />
