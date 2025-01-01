@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="1383" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19008,13 +19008,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taCKdtrzUioon_hWd1Ce-110" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isOrganizationAccountExists()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="taCKdtrzUioon_hWd1Ce-110" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isQueryOrganizationAccount()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="3037" as="sourcePoint" />
             <mxPoint x="957" y="3037.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="taCKdtrzUioon_hWd1Ce-111" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isAccountExists&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.066;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="taCKdtrzUioon_hWd1Ce-111" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isQueryAccount&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.066;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="690" y="3121" as="targetPoint" />
             <Array as="points" />
@@ -23616,13 +23616,13 @@
         <mxCell id="DVQ-X0XlkVTpgFARbxXe-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="9102.5" y="300.0000000000002" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-81" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isOrganizationAccountExists()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.962;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-1" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-81" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isGetOrganizationAccount()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.962;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="3053" as="sourcePoint" />
             <mxPoint x="1161.45" y="3052.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-82" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isAccountExists&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.007;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-4" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-82" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isGetAccount&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.007;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-4" edge="1">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="967" y="3100.61" as="targetPoint" />
             <Array as="points" />
@@ -23644,13 +23644,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-85" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isOrganizationAccountExists()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.962;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-85" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;isSelectOrganizationAccount()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.962;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1171.37" y="3061.39" as="sourcePoint" />
             <mxPoint x="1365.8200000000002" y="3061.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-86" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isAccountExists&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.007;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-86" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left;&quot;&gt;return&amp;nbsp;isSelectAccount&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.007;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="1171.37" y="3089.61" as="targetPoint" />
             <Array as="points" />
