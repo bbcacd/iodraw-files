@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="2420" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20327,7 +20327,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WxhrZZps8uCnuaI7Jpua-35" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;findPolicyInfo()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="WxhrZZps8uCnuaI7Jpua-4" edge="1">
+        <mxCell id="WxhrZZps8uCnuaI7Jpua-35" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;getPolicyInfo()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="WxhrZZps8uCnuaI7Jpua-4" edge="1">
           <mxGeometry x="-0.0032" relative="1" as="geometry">
             <mxPoint x="5690" y="5300" as="sourcePoint" />
             <mxPoint x="5828.41" y="5299.5" as="targetPoint" />
@@ -24143,7 +24143,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PR6WbfCOTKPt1EXDEoi-4" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;findPolicyInfo()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.952;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="8PR6WbfCOTKPt1EXDEoi-4" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;queryPolicyInfo()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.952;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0032" relative="1" as="geometry">
             <mxPoint x="5987.93" y="5315.81" as="sourcePoint" />
             <mxPoint x="6128.41" y="5315.5" as="targetPoint" />
