@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="4149" dy="3140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2904" dy="2549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23731,7 +23731,7 @@
         <mxCell id="DVQ-X0XlkVTpgFARbxXe-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="5292.629999999999" y="3125" width="10" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DVQ-X0XlkVTpgFARbxXe-100" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;isUpdateOrganizationState()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1.042;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="DVQ-X0XlkVTpgFARbxXe-100" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;updateOrganizationState()&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1.042;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0011" relative="1" as="geometry">
             <mxPoint x="5303.049999999999" y="3134.505" as="sourcePoint" />
             <mxPoint x="5480.629999999999" y="3134" as="targetPoint" />
@@ -24889,6 +24889,9 @@
         </mxCell>
         <mxCell id="Mx27EPxZcUo1k_YWIfJy-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;改&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="453.1600000000004" y="2440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx27EPxZcUo1k_YWIfJy-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;改&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4683.150000000001" y="2768" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
