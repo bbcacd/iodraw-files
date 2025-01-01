@@ -16785,7 +16785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXT_Lk4pfVc6g2Q-Pyep" name="设计序列图">
-    <mxGraphModel dx="785" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21707,10 +21707,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yHDpC8B9Lba2Kd88bj72-22" value="is&lt;span style=&quot;font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;Info()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="810.0000000000001" y="9060" width="170" height="30" as="geometry" />
+        <mxCell id="yHDpC8B9Lba2Kd88bj72-22" value="isQuery&lt;span style=&quot;font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;Info()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="795.0000000000001" y="9060" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yHDpC8B9Lba2Kd88bj72-23" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isExist&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.013;exitY=0.965;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="yHDpC8B9Lba2Kd88bj72-23" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isQuery&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.013;exitY=0.965;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0017" relative="1" as="geometry">
             <mxPoint x="732.0000000000001" y="9128" as="targetPoint" />
             <Array as="points">
@@ -24488,14 +24488,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PR6WbfCOTKPt1EXDEoi-52" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;is&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Info()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.071;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.961;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yHDpC8B9Lba2Kd88bj72-24" edge="1">
+        <mxCell id="8PR6WbfCOTKPt1EXDEoi-52" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;isGet&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Info()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.071;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.961;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yHDpC8B9Lba2Kd88bj72-24" edge="1">
           <mxGeometry x="-0.0015" relative="1" as="geometry">
             <mxPoint x="1120" y="9075" as="sourcePoint" />
             <mxPoint x="1306" y="9074.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PR6WbfCOTKPt1EXDEoi-53" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isExist&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.065;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-58" edge="1">
+        <mxCell id="8PR6WbfCOTKPt1EXDEoi-53" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isGet&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.065;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVQ-X0XlkVTpgFARbxXe-58" edge="1">
           <mxGeometry x="-0.0017" relative="1" as="geometry">
             <mxPoint x="1092" y="9118" as="targetPoint" />
             <Array as="points">
@@ -24506,14 +24506,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PR6WbfCOTKPt1EXDEoi-54" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;is&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Info()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.071;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.961;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="8PR6WbfCOTKPt1EXDEoi-54" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;isSelect&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;CommunityVolunteers&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Info()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.071;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.961;exitY=0.155;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0015" relative="1" as="geometry">
             <mxPoint x="1315" y="9081" as="sourcePoint" />
             <mxPoint x="1528" y="9081.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PR6WbfCOTKPt1EXDEoi-55" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isExist&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.065;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="8PR6WbfCOTKPt1EXDEoi-55" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Helvetica&quot;&gt;return&amp;nbsp;isSelect&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.065;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0017" relative="1" as="geometry">
             <mxPoint x="1315" y="9111" as="targetPoint" />
             <Array as="points">
